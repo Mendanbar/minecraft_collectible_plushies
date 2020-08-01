@@ -322,7 +322,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Totoro Plush\\\"}\"},SkullOwner:{Id:[I;73,33,28,494],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQzNjY1ZTE2NTQyNzViMGY1NGU0ZWFhMTczZTI5Mzg2MjNiM2FkMWExNzFhMTQyNjZmYjVlMjYzN2U3ZTIifX19\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Totoro Plush\\\"}\"},SkullOwner:{Id:[I;44,73,33,494],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQzNjY1ZTE2NTQyNzViMGY1NGU0ZWFhMTczZTI5Mzg2MjNiM2FkMWExNzFhMTQyNjZmYjVlMjYzN2U3ZTIifX19\"}]}}}"
                         }
                     ]
                 },
@@ -333,7 +333,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Dragonsbreath Opal\\\"}\"},SkullOwner:{Id:[I;942,6190,416,6792],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY1MjQxNjZmN2NlODhhNTM3MTU4NzY2YTFjNTExZTMyMmE5M2E1ZTExZGJmMzBmYTZlODVlNzhkYTg2MWQ4In19fQ==\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Dragonsbreath Opal\\\"}\"},SkullOwner:{Id:[I;942,520,6190,416],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY1MjQxNjZmN2NlODhhNTM3MTU4NzY2YTFjNTExZTMyMmE5M2E1ZTExZGJmMzBmYTZlODVlNzhkYTg2MWQ4In19fQ==\"}]}}}"
                         }
                     ]
                 },
@@ -344,7 +344,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Enderman Plush\\\"}\"},SkullOwner:{Id:[I;974,97,4,11],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Enderman Plush\\\"}\"},SkullOwner:{Id:[I;974,97,6,3],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=\"}]}}}"
                         }
                     ]
                 },

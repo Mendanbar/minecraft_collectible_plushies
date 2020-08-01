@@ -175,7 +175,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Ravager Plush\\\"}\"},SkullOwner:{Id:[I;588,499,2614,7],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyMGJmNTJlYzM5MGEwNzk5Mjk5MTg0ZmM2NzhiZjg0Y2Y3MzJiYjFiZDc4ZmQxYzRiNDQxODU4ZjAyMzVhOCJ9fX0=\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Ravager Plush\\\"}\"},SkullOwner:{Id:[I;5105,499,5,7],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyMGJmNTJlYzM5MGEwNzk5Mjk5MTg0ZmM2NzhiZjg0Y2Y3MzJiYjFiZDc4ZmQxYzRiNDQxODU4ZjAyMzVhOCJ9fX0=\"}]}}}"
                         }
                     ]
                 }
@@ -194,7 +194,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Pig Plush\\\"}\"},SkullOwner:{Id:[I;36,21,4971,32],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMzYzUxNmE2YmM5Zjc1MjM5YTYyYzFhMjc2YzgyNTYwNGI4NzI5MDRmMmE4NzgwYmFmY2VlODA5MTE2ODQxNCJ9fX0=\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Pig Plush\\\"}\"},SkullOwner:{Id:[I;36,4971,930,5228],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMzYzUxNmE2YmM5Zjc1MjM5YTYyYzFhMjc2YzgyNTYwNGI4NzI5MDRmMmE4NzgwYmFmY2VlODA5MTE2ODQxNCJ9fX0=\"}]}}}"
                         }
                     ]
                 },
@@ -205,7 +205,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cow Plush\\\"}\"},SkullOwner:{Id:[I;3489,45,5,3308],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJjNGY3NDc3ZDZiNTk2OWRiNGM4MWEzMWIxY2I3ZTZmMzczMGRlMTliNTBmNzhjOTYyMTdiOWQzOTJmMDk3YiJ9fX0=\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cow Plush\\\"}\"},SkullOwner:{Id:[I;39,29,45,3308],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJjNGY3NDc3ZDZiNTk2OWRiNGM4MWEzMWIxY2I3ZTZmMzczMGRlMTliNTBmNzhjOTYyMTdiOWQzOTJmMDk3YiJ9fX0=\"}]}}}"
                         }
                     ]
                 },
@@ -216,7 +216,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Chicken Plush\\\"}\"},SkullOwner:{Id:[I;556,69,4004,579],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Chicken Plush\\\"}\"},SkullOwner:{Id:[I;32,5,469,3579],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19\"}]}}}"
                         }
                     ]
                 },
@@ -227,7 +227,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sheep Plush\\\"}"},SkullOwner:{Id:[I;878,414,85,828],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJiNmFkYjNiNmU4M2MwNzRlN2QwZWJhZmYxNGQ2YWNiYmFiZWIwNjY5NGQ2ZWUzOGNjOGRkMWJmNjYzMGJjNiJ9fX0=\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sheep Plush\\\"}\"},SkullOwner:{Id:[I;6878,18,414,85],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJiNmFkYjNiNmU4M2MwNzRlN2QwZWJhZmYxNGQ2YWNiYmFiZWIwNjY5NGQ2ZWUzOGNjOGRkMWJmNjYzMGJjNiJ9fX0=\"}]}}}"
                         }
                     ]
                 },
@@ -238,7 +238,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Rabbit Plush\\\"}\"},SkullOwner:{Id:[I;69,15,4582,708],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjMjQyZTY2N2FlZTQ0NDkyNDEzZWY0NjFiODEwY2FjMzU2Yjc0ZDg3MThlNWNlYzFmODkyYTZiNDNlNWUxIn19fQ==\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Rabbit Plush\\\"}\"},SkullOwner:{Id:[I;80,15,4582,74],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjMjQyZTY2N2FlZTQ0NDkyNDEzZWY0NjFiODEwY2FjMzU2Yjc0ZDg3MThlNWNlYzFmODkyYTZiNDNlNWUxIn19fQ==\"}]}}}"
                         }
                     ]
                 },
@@ -249,7 +249,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fox Plush\\\"}\"},SkullOwner:{Id:[I;727,46,81,913],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJkZmZlOTY0MmZjNTI4MGU2OGNlNDg4ZTNiY2Y0NDA2ODdlZDNiYzU2NmUzMTVhZjgyNGY0MjhiNmZmNzE1In19fQ==\"}]}}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fox Plush\\\"}\"},SkullOwner:{Id:[I;727,46,81,2913],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJkZmZlOTY0MmZjNTI4MGU2OGNlNDg4ZTNiY2Y0NDA2ODdlZDNiYzU2NmUzMTVhZjgyNGY0MjhiNmZmNzE1In19fQ==\"}]}}}"
                         }
                     ]
                 }
