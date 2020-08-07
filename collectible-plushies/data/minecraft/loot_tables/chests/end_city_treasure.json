@@ -354,6 +354,964 @@
                     "name": "minecraft:air"
                 }
             ]
-        }
+        },
+        {
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.20
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fortune\",lvl:4}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Lucky Pickaxe",
+								"color": "green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Sonic Pickaxe",
+								"color": "yellow",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_axe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Sonic Axe",
+								"color": "yellow",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_shovel",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Sonic Shovel",
+								"color": "yellow",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:golden_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1,Enchantments:[{id:\"minecraft:sharpness\",lvl:10},{id:\"minecraft:sweeping\",lvl:10}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Chrysaor",
+								"color": "yellow",
+								"italic": true,
+								"bold": true
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:smite\",lvl:6}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Undead Slayer Sword",
+								"color": "gray",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:stick",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{HideFlags:1,Enchantments:[{id:\"minecraft:knockback\",lvl:50}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Whomp Stick",
+								"color": "white",
+								"italic": true,
+								"bold": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:knockback\",lvl:3}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Stand-Back Sword",
+								"color": "blue",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:netherite_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_aspect\",lvl:3}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Burner Sword",
+								"color": "dark_red",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:looting\",lvl:4}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Looter Sword",
+								"color": "dark_green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:netherite_axe",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:sharpness\",lvl:7}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name":
+							{
+								"text": "Razor Axe",
+								"color": "light_purple",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.175
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bow",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:power\",lvl:7}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Powerful Bow",
+								"color": "light_purple",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bow",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:punch\",lvl:3}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Stand-Back Bow",
+								"color": "blue",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shears",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:unbreaking\",lvl:10},{id:\"minecraft:efficiency\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Diamond? Shears",
+								"color": "aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:fishing_rod",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:lure\",lvl:4}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Baiting Fishing Rod",
+								"color": "gray",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:fishing_rod",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Lucky Fishing Rod",
+								"color": "green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "minecraft:random_chance",
+					"chance": 0.175
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_helmet",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Protective Helmet",
+								"color": "dark_aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:netherite_helmet",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "FireProof Helmet",
+								"color": "red",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_helmet",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Anti-Creeper Helmet",
+								"color": "dark_green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shield",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1,BlockEntityTag:{Base:15,Patterns:[{Pattern:\"sc\",Color:4},{Pattern:\"bri\",Color:15},{Pattern:\"flo\",Color:1},{Pattern:\"flo\",Color:4},{Pattern:\"tt\",Color:15},{Pattern:\"cbo\",Color:15}]}}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Shield of El Cid",
+								"color": "yellow",
+								"italic": true,
+								"bold": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_chestplate",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Protective Chestplate",
+								"color": "dark_aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_chestplate",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "FireProof Chestplate",
+								"color": "red",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_chestplate",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Anti-Creeper Chestplate",
+								"color": "dark_green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shield",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Unbreakable:1,Enchantments:[{id:\"minecraft:protection\",lvl:10}],BlockEntityTag:{Base:0,Patterns:[{Pattern:\"sc\",Color:14}]}}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Shield of Evalach",
+								"color": "white",
+								"italic": true,
+								"bold": true
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_chestplate",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:thorns\",lvl:4}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Spiky Chestplate",
+								"color": "gray",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_leggings",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Protective Leggings",
+								"color": "dark_aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_leggings",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "FireProof Leggings",
+								"color": "red",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_leggings",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Anti-Creeper Leggings",
+								"color": "dark_green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Protective Boots",
+								"color": "dark_aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:netherite_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "FireProof Boots",
+								"color": "red",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Anti-Creeper Boots",
+								"color": "dark_green",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:feather_falling\",lvl:5}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Feather Boots",
+								"color": "white",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:diamond_boots",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:frost_walker\",lvl:4}]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": 
+							{
+								"text": "Frosty Boots",
+								"color": "dark_aqua",
+								"italic": false,
+								"bold": true
+							}
+						},
+						{
+							"function": "minecraft:set_damage",
+							"damage":
+							{
+								"min": 0.1,
+								"max": 0.333
+							}
+						}
+					]
+				}
+			]
+		}
     ]
 }
