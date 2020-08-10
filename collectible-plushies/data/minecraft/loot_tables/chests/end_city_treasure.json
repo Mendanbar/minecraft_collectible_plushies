@@ -371,7 +371,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fortune\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fortune\",lvl:4}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -400,7 +400,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -429,7 +429,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -458,7 +458,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:efficiency\",lvl:7}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -498,6 +498,13 @@
 								"italic": true,
 								"bold": true
 							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{"text":""},
+								{"text":"Sword of legend. Sharpness without equal.", "color":"blue", "italic": false}
+							]
 						}
 					]
 				},
@@ -508,7 +515,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:smite\",lvl:6}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:smite\",lvl:6}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -558,7 +565,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:knockback\",lvl:3}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:knockback\",lvl:3}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -587,7 +594,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_aspect\",lvl:3}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_aspect\",lvl:3}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -616,7 +623,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:looting\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:looting\",lvl:4}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -645,7 +652,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:sharpness\",lvl:7}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:sharpness\",lvl:7}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -685,7 +692,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:power\",lvl:7}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:power\",lvl:7}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -714,7 +721,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:punch\",lvl:3}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:punch\",lvl:3}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -743,7 +750,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:unbreaking\",lvl:10},{id:\"minecraft:efficiency\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:unbreaking\",lvl:10},{id:\"minecraft:efficiency\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -772,7 +779,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:lure\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:lure\",lvl:4}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -801,7 +808,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -841,7 +848,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -870,7 +877,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -899,7 +906,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -949,7 +956,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -978,7 +985,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1007,7 +1014,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1057,7 +1064,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:thorns\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:thorns\",lvl:4}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1086,7 +1093,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1115,7 +1122,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1144,7 +1151,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1173,7 +1180,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1202,7 +1209,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:fire_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1231,7 +1238,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:blast_protection\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1260,7 +1267,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:feather_falling\",lvl:5}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:feather_falling\",lvl:5}]}"
 						},
 						{
 							"function": "minecraft:set_name",
@@ -1289,7 +1296,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{RepairCost:19,Enchantments:[{id:\"minecraft:frost_walker\",lvl:4}]}"
+							"tag": "{RepairCost:1,Enchantments:[{id:\"minecraft:frost_walker\",lvl:4}]}"
 						},
 						{
 							"function": "minecraft:set_name",
